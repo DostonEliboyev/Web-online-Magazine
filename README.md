@@ -5,7 +5,9 @@ This project is a single-page online store created using basic HTML and CSS. The
 ## Background
 
 This project was developed while learning web development. It served as a practical exercise to apply basic HTML and CSS skills.
+##🚀 Demo
 
+[https://magazineuzb.netlify.app/]([https://magazineuzb.netlify.app/](https://magazineuzb.netlify.app/))
 ## Project Purpose
 
 The purpose of this project is to:
